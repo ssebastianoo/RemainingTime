@@ -17,7 +17,7 @@
     },
 
     "permissions": ["activeTab", "contextMenus"],
-    "homepage_url": "https://localhost",
+    "homepage_url": "https://github.com/ssebastianoo/RemainingTime",
 
     "browser_action": {
         "default_title": "Enable Clock"
